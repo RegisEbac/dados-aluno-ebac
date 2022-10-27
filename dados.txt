@@ -1,12 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
-
+-Primeiro Nome: Regis
+-Profissão: Autonomo    
+-Cidade: Algarve ( portugal)
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software: Curso bem dificil, requer bastante dedicaçao e estudo
+-Feedback sobre a plataforma de estudo da EBAC: Boa , mas poderia ser melhor se tivesse professores em tempo real
 Obrigado!!!
 
 
